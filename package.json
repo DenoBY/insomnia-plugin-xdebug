@@ -1,0 +1,17 @@
+{
+  "name": "insomnia-plugin-xdebug",
+  "version": "1.0.0",
+
+  "insomnia": {
+    "name": "xDebug",
+    "displayName": "xDebug Plugin by Deno",
+    "description": "This plugin allows you to debug your PHP code using xDebug.",
+
+
+    "images": {
+      "icon": "debug.svg"
+    },
+
+    "unlisted": false
+  }
+}
